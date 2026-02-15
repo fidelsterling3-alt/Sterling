@@ -13,6 +13,6 @@
 - [Project name](link) — short description
 
 ## How to Reach Me
-- Email: [your email]
+- Email: [fidelsterling3@gmail.com]
 - LinkedIn: [your LinkedIn profile link]
 Add my profile READY ME
