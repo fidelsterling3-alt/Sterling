@@ -1,18 +1,18 @@
 # Hi, I'm[Fidel sterling]
 
 ## About Me
-- I'm currently learning [what you're studying, e.g., "Computer Science at University of Nairobi"].
-- I'm interested in [your interests, e.g., "AI, web development, and data science"].
-- I'm looking to collaborate on [e.g., "beginner-friendly open source projects"].
+- I'm currently learning computer programming and digital marketing
+- I'm interested in web design and artificial intelligence 
+- I'm looking to collaborate on creating a much bigger work on my git. and merger my work with others
 
 ## Skills I'm Building
 - Git and GitHub
-- [Add others, e.g., "Python", "HTML/CSS", "Machine Learning"]
+i am learning html.css and other programming languages 
 
 ## Current Projects
-- [Project name](link) — short description
+- [STERLING SILVER]  My protect targets on provideing easy access to learn programming and learn it in an easy way 
 
-## How to Reach Me
-- Email: [fidelsterling3@gmail.com]
-- LinkedIn: [your LinkedIn profile link]
+## How to Reach 
+[fidelsterling3@gmail.com]
+: [your LinkedIn profile link]
 Add my profile READY ME
